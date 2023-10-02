@@ -1,0 +1,85 @@
+.vertical-line{
+    border:2px solid lightgrey;
+    height:60px;
+}
+.navdel>h5{
+    font-weight: 900;
+    margin-top: 10px;
+}
+.navdel>p{
+    font-size: 13px;;
+}
+.navsearch{
+    background-color:#f8f8f8 ;
+    border-radius: 10px;
+    border:1px solid #f2f2f2;
+    padding-inline: 10px;
+}
+.navsearch>input{
+    border:none; 
+    width: 40vw;
+    height:50px;
+    background-color: transparent;
+}
+.c{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-inline: 10vw;
+}
+.img{
+    width: 120px;
+    height:170px;
+}
+#b{
+    width:78vw;
+    margin:auto;
+}
+#b1{
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+#b1>img{
+    display:inline-block;
+    margin:10px;
+}
+.d{
+    width: 80vw;
+    margin: auto;
+    
+}
+.my-card{
+    width:250px;
+    box-sizing: border-box;
+    border-radius: 15px !important;
+    display: inline-block !important;
+}
+.list{
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin:10px;
+}
+.w{
+    color:grey;
+    font-size: 13px;
+}
+.my-card>img{
+    width: 150px;
+    height:150px;
+    display: inline-block;
+    margin:30px;
+}
+.my-card-text{
+    padding:10 px;
+    margin-bottom: 10px;
+}
+.yaswanth{
+    padding:50px;
+    text-align: center;
+}
+.but{
+    background-color: #e3ffe5 !important;
+}
+
